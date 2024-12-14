@@ -1,0 +1,5 @@
+2024_11_08_00_16_08_| Lamda = 0.000 | Val F1_macro = 0.66791 | Test F1_macro = 0.91791 | Test F1_micro = 0.79795 | Hard F1_macro = 0.71379 | Hard F1_micro = 0.75588 
+2024_11_08_00_16_08_Average debias results from 5 folds
+2024_11_08_00_16_08_
+Lamda = 0.00 | Test f1_macro = 0.6679 0.0000 |f1_micro = 0.7679 0.0000 |Hard f1_macro = 0.6638 0.0000 |f1_micro = 0.7559 0.0000 |
+

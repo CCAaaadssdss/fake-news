@@ -1,0 +1,2 @@
+2024_11_01_18_12_15_Epoch 011 | Train time: 27.4(s) | Train loss: 50.6889 | Train_acc: 0.2806 | Val F1_macro = 0.72308 | Val F1_micro = 0.35402 | Val Accuracy = 0.3540 
+2024_11_01_18_12_15_Early Stop due to no better f1_macro!

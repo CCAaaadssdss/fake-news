@@ -1,0 +1,3 @@
+2024_11_01_16_18_20_Epoch 002 | Train time: 27.1(s) | Train loss: 32.9086 | Train_acc: 0.5932 | Val F1_macro = 0.54170 | Val F1_micro = 0.36389 | Val Accuracy = 0.3639 
+2024_11_01_16_18_20_Batch 0 - Loss: 0.2914 | Accuracy: 0.2812
+2024_11_01_16_18_20_Batch 1 - Loss: 0.3046 | Accuracy: 0.4062

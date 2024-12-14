@@ -1,0 +1,4 @@
+2024_11_01_17_42_13_Epoch 004 £üTest F1_macro = 0.74106 | Test F1_micro = 0.36290
+2024_11_01_17_42_13_Batch 0 - Loss: 0.2664 | Accuracy: 0.3750
+2024_11_01_17_42_13_ERROR: Loss is NaN or Inf!
+2024_11_01_17_42_13_Batch 2 - Loss: 0.2057 | Accuracy: 0.7812

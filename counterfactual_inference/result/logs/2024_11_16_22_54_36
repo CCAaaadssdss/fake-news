@@ -1,0 +1,33 @@
+2024_11_16_22_54_36_PID: 29540
+2024_11_16_22_54_36_============= Debiasing Fake News via Counterfactual Inference========================
+{
+  "batch_size": 8,
+  "bert_cache": "../transformers/",
+  "claim_length": 100,
+  "config": "bert-base-uncased",
+  "cuda": 1,
+  "dataset": "snes",
+  "debug": false,
+  "dropout": 0.2,
+  "early_stopping_patience": 10,
+  "embedding": "bert",
+  "filter_mixture": 1,
+  "filter_websites": 0,
+  "fold": 0,
+  "hidden_size": 128,
+  "label_num": 2,
+  "lr": 3e-06,
+  "lstm_layers": 0,
+  "model": "bert",
+  "num_att_heads_for_evds": 1,
+  "num_att_heads_for_words": 1,
+  "num_epochs": 100,
+  "num_fold": 5,
+  "seed": 12345,
+  "snippet_length": 200,
+  "up_bound": 2,
+  "use_claim_source": 0,
+  "use_evd_source": 0,
+  "verbose": 5
+}
+2024_11_16_22_54_36_Loading Data

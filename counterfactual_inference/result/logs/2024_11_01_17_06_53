@@ -1,0 +1,4 @@
+2024_11_01_17_06_53_ERROR: Loss is NaN or Inf!
+2024_11_01_17_06_53_Batch 58 - Loss: 0.1932 | Accuracy: 0.7812
+2024_11_01_17_06_53_Batch 59 - Loss: 0.3130 | Accuracy: 0.5625
+2024_11_01_17_06_53_Batch 60 - Loss: 0.2596 | Accuracy: 0.6562
